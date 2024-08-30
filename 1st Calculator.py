@@ -1,7 +1,7 @@
 #make a calculator
 
-a=20
-b=2
+a=20 #change the number
+b=2  #change the number
 ans1=a+b
 ans2=a-b
 ans3=a*b
@@ -21,3 +21,6 @@ print("7.The modulus of",a,"and",b,"is",ans7)
 ans8=(ans1+ans2+ans3+ans4+ans5+ans6+ans7)/7
 
 print("Total average of (1to7) is",ans8)
+
+
+#copy and then paste it in the editor and run ,answer will come.
