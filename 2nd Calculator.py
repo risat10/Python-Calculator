@@ -1,4 +1,4 @@
-#2nd a calculator
+#2nd calculator
 
 a=float(input("Enter the number")) #just add input here  #add datatype
 b=float(input("Enter the number"))                       #if you don't add datatype the addition of 2 and 2 will come 22
